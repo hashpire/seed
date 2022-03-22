@@ -17,7 +17,7 @@ Obsidian is a note-taking and knowledge management tool that is present in markd
 
 ### Obsidian Handbook
 
-  ![[Summary_of_Obsidian_Flight_School (1).pdf]]
+- [Summary_of_Obsidian](https://github.com/hashpire/seed/blob/main/Resources/Attachment/Summary_of_Obsidian_Flight_School%20(1).pdf)
 
 ### Useful resources
 
