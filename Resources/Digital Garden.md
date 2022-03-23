@@ -2,14 +2,22 @@
 
 A garden is something in between a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organized by their publication date — [MaggieAppleton](https://github.com/MaggieAppleton/digital-gardeners)
 
-### What is Digital Garden?
+## Table of contents
+
+- [What is Digital Garden?](https://github.com/hashpire/seed/blob/main/Resources/Digital%20Garden.md#what-is-digital-garden)
+- [Garden’s characteristics](https://github.com/hashpire/seed/blob/main/Resources/Digital%20Garden.md#gardens-characteristics)
+- [Gardening guide for your mind](https://github.com/hashpire/seed/blob/main/Resources/Digital%20Garden.md#gardening-guide-for-your-mind)
+- [Example of Digital Garden site](https://github.com/hashpire/seed/blob/main/Resources/Digital%20Garden.md#example-of-digital-garden-site)
+- [Useful resources](https://github.com/hashpire/seed/blob/main/Resources/Digital%20Garden.md#useful-resources)
+
+## What is Digital Garden?
 
 -   [A Brief History & Ethos of the Digital Garden by Maggie Appleton](https://maggieappleton.com/garden-history)
 -   [My blog is a digital garden, not a blog by Joel Hooks](https://href.li/?https://joelhooks.com/digital-garden)
 -   [Brief explain: Digital Garden by anthonyamar](https://garden.anthonyamar.fr/Digital+garden/Digital+garden)
 -   [What is a digital garden by thunknotes](https://www.thunknotes.com/blog/what-is-a-digital-garden)
 
-### Garden’s characteristics
+## Garden’s characteristics
 
 Atomicity in Digital Garden
 -   [Atomic design applied to digital gardening](https://garden.anthonyamar.fr/Digital+garden/Atomic+design+applied+to+digital+gardening)
@@ -25,13 +33,13 @@ Evergreen Contents
 -   [What Is Evergreen Content? How To Create Content That Last](https://www.semrush.com/blog/evergreen-content/?kw=&cmp=AA_SRCH_DSA_Blog_Core_BU_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=507057910701&kwid=dsa-1053501805907&cmpid=12565136841&agpid=119030064666&BU=Core&extid=167593378975&adpos=E)
 -   [Video: Evergreen note by Bryan Jenks](https://www.youtube.com/watch?v=WpwRxZWRmTU)
 
-### Gardening guide for your mind
+## Gardening guide for your mind
 
 -   [You and your mind garden by Anne-Laure Le Cunff](https://nesslabs.com/mind-garden)
 -   [A gardening guide for your mind by mentalnotes](https://www.mentalnodes.com/a-gardening-guide-for-your-mind)
 -   [Building a digital garden by Tom Critchlow](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
 
-### Example of Digital Garden site
+## Example of Digital Garden site
 
 -   [garden.anthonyamar.fr](https://garden.anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0)
 -   [obsidian.garden](https://obsidian.garden/%F0%9F%91%A9%E2%80%8D%F0%9F%8C%BE+Your+Knowledge+Garden)
@@ -45,7 +53,7 @@ Evergreen Contents
 -   [chasem.co](https://chasem.co/notes)
 -   [garden.bianca.digital](https://garden.bianca.digital/design-moc)
 
-### Useful resources
+## Useful resources
 
 -   [Digital Garden Term of service](https://www.swyx.io/digital-garden-tos)
 -   [Gardening tools and resources - GitHub repo](https://github.com/MaggieAppleton/digital-gardeners)

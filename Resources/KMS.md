@@ -1,8 +1,16 @@
 # KMS
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Knowledge_management), a Knowledge Management System (KMS) is the process of creating, sharing, using, and managing knowledge and information within an organization. If talking about KMS in a more personal context is referred to as PKM, Personal Knowledge Management.
+
+## Table of contents
+
+- [What is KMS?](https://github.com/hashpire/seed/blob/main/Resources/KMS.md#what-is-kms)
+- [Why you need a Second Brain](https://github.com/hashpire/seed/blob/main/Resources/KMS.md#why-you-need-a-second-brain)
+- [Building a Second Brain](https://github.com/hashpire/seed/blob/main/Resources/KMS.md#building-a-second-brain)
+- [Design Discoverable Notes](https://github.com/hashpire/seed/blob/main/Resources/KMS.md#design-discoverable-notes)
+- [Note-taking systems](https://github.com/hashpire/seed/blob/main/Resources/KMS.md#note-taking-systems)
  
-### What is KMS?
+## What is KMS?
 
 Knowledge Management System (KMS)
 -   [Knowledge Management Systems: The Ultimate Guide](https://www.hubspot.com/knowledge-management-systems#:~:text=A%20knowledge%20management%20system%20is,for%20your%20users%20or%20customers.)
@@ -12,12 +20,12 @@ Personal Knowledge Management (PKM)
 -   [Video: What is PKM? What is Personal Knowledge Management?](https://www.youtube.com/watch?v=Q2WBHyqRsxA)
 -   [Video: PKM by Bryan Jenks](https://www.youtube.com/watch?v=6__SZ93Ybss)
 
-### Why you need a Second Brain
+## Why you need a Second Brain
 
 -   [I’m building a second brain. Here’s why you should, too](https://medium.com/@elizabethmjoneswrites/im-building-a-second-brain-here-s-why-you-should-too-3ed777495689#:~:text=How%20do%20you%20go%20about,worth%20it%2C%20times%20are%20tough.)
 -   [Why I have a second brain, and why you need to build one too.](https://www.rylncoaching.com/post/why-i-have-a-second-brain-and-why-you-need-to-build-one-too)
 
-### Building a Second Brain
+## Building a Second Brain
 
 -   [Building a Second Brain: An Overview by Tiago Forte](https://fortelabs.co/blog/basboverview/)
 -   [How to Build a Second Brain by Ali abdaal](https://aliabdaal.com/how-to-build-a-second-brain-271393/)
@@ -25,11 +33,11 @@ Personal Knowledge Management (PKM)
 -   [Podcast: The Building a Second Brain](https://open.spotify.com/show/40O0Lbp5ockSt0qSogo6q1)
 -   [Video: The Second Brain - A Life-Changing Productivity System](https://www.youtube.com/watch?v=OP3dA2GcAh8)
 
-### Design Discoverable Notes
+## Design Discoverable Notes
 
 -   [Progressive Summarization: A Practical Technique for Designing Discoverable Notes](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/)
 
-### Note-taking systems
+## Note-taking systems
 
 P.A.R.A Method
 -   [Fortelabs - PARA Part 1: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
